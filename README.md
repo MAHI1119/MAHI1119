@@ -14,8 +14,11 @@
   <b>CSS</b><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> </a></p>
   
   <h3>Connect Through</h3> 
+  
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0"><img src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" width="40" height="40"> 
-  </a>
+  </a> 
+  
+  
  <a href="#"><img src="https://seeklogo.com/images/G/gmail-logo-0240527C35-seeklogo.com.png" width="40" height="40"> 
   </a>
  
