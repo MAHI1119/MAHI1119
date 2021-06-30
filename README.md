@@ -18,6 +18,6 @@
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
     <img src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" width="40" height="40"> 
   </a> &nbsp &nbsp
-  <a href="#"><img src="https://seeklogo.com/images/G/gmail-logo-0240527C35-seeklogo.com.png" width="40" height="40"> 
+  <a href="#"><img src="https://seeklogo.com/images/G/gmail-google-grayscale-logo-CA6AF2BB00-seeklogo.com.png" width="40" height="40"> 
   </a>
  
