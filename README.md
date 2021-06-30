@@ -1,6 +1,7 @@
-   <h1>
+   <img src="https://static.vecteezy.com/system/resources/previews/000/180/387/non_2x/software-engineers-vectors.jpg" width="100px" heigth="100px">
+  <h1>
   <b>Hi there I'm Maheswari!!!! 👋</b></h1>
-  <img src="https://static.vecteezy.com/system/resources/previews/000/180/387/non_2x/software-engineers-vectors.jpg" width="100px" heigth="100px">
+ 
 - 🌱 I am a second year student at Government college of Technology. 
 - 🌱 I’m currently learning Front end development at Spotknack mission 2021.
 - 💬 Ask me about Front end development.
