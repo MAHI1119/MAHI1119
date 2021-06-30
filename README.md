@@ -15,7 +15,7 @@
   <li><a href="https://epic-golick-286ceb.netlify.app">Hotstar Home</a> </li> 
 <h3>Connect Through</h3> 
   
- <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
+  <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/ align="left">
   </a> 
  <a href="mailto:mahijanu1119@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/> 
