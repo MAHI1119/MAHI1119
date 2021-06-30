@@ -1,4 +1,5 @@
-                                                       Hi there I'm Maheswari!!!! 👋
+   <h1>
+  <b>Hi there I'm Maheswari!!!! 👋</b></h1>
 
 - 🌱 I am a second year student at Government college of Technology. 
 - 🌱 I’m currently learning Front end development at Spotknack mission 2021.
