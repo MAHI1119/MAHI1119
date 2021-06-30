@@ -8,11 +8,11 @@
 - 💬 Ask me about Front end development.
 - 📫 How to reach me:LinkedIn,Gmail
 - 😅 Fun fact I do lot of funny things.
-<h3><b>Tools I know</b></h3>
-  <p><b>HTML<b><a href="https://www.w3.org/html/" target="_blank"></a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <b>CSS</b><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> </a></p>
-  
+<h3>click Here to see my works</h3>
+<ul>
+  <li><a href="https://awesome-brown-ae47f6.netlify.app">Hotstar AboutPage</a></li>
+  <li><a href="https://upbeat-shockley-f0dce2.netlify.app">Hotstar Subscribe Page </a></li> 
+  <li><a href="https://upbeat-shockley-f0dce2.netlify.app">Hotstar Home</a> </li> 
   <h3>Connect Through</h3> 
   
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
