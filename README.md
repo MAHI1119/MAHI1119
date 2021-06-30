@@ -1,7 +1,7 @@
 
 <img src="https://static.vecteezy.com/system/resources/previews/000/180/387/non_2x/software-engineers-vectors.jpg" align="right" width="350px" heigth="350px">
   <h1>
-  <b>Hi there I'm Maheswari!!!! 👋</b></h1>
+  <b>Hi there 👋 I'm Maheswari! </b></h1>
  
 - 🎓I am a second year student at Government college of Technology. 
 - 💻 I’m currently learning Front end development at Spotknack mission 2021.
@@ -20,4 +20,6 @@
   </a> 
  <a href="mailto:mahijanu1119@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/> 
   </a>
- 
+  <a href="https://twitter.com/Maheswa19009887">
+ <img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/ align="left">
+  </a> 
