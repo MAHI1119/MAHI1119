@@ -18,6 +18,6 @@
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
   </a> &nbsp &nbsp
-  <a href="mailto:mahijanu1119@gmail.com"><img src=""https://img.icons8.com/bubbles/50/000000/gmail.png"/" width="40" height="40"> 
+  <a href="mailto:mahijanu1119@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/> 
   </a>
  
