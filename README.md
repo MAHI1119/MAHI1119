@@ -1,4 +1,8 @@
-   <img src="https://static.vecteezy.com/system/resources/previews/000/180/387/non_2x/software-engineers-vectors.jpg"  align="right" border-radius="50px" width="400px" heigth="400px">
+  <style>
+   .imge{
+   border-radius:50%;
+   }
+  <img src="https://static.vecteezy.com/system/resources/previews/000/180/387/non_2x/software-engineers-vectors.jpg" class="imge" align="right" width="400px" heigth="400px">
   <h1>
   <b>Hi there I'm Maheswari!!!! 👋</b></h1>
  
