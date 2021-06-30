@@ -16,3 +16,6 @@
   <h3>Connect Through</h3> 
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0"><img src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" width="40" height="40"> 
   </a>
+ <a href="https://www.linkedin.com/in/maheswari-s-8107761b0"><img src=" <a href="https://www.linkedin.com/in/maheswari-s-8107761b0"><img src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" width="40" height="40"> 
+  </a>" width="40" height="40"> 
+  </a>
