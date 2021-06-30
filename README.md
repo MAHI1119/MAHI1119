@@ -12,7 +12,7 @@
 <ul>
   <li><a href="https://awesome-brown-ae47f6.netlify.app">Hotstar AboutPage</a></li>
   <li><a href="https://upbeat-shockley-f0dce2.netlify.app">Hotstar Subscribe Page </a></li> 
-  <li><a href="https://https://epic-golick-286ceb.netlify.app">Hotstar Home</a> </li> 
+  <li><a href="https://epic-golick-286ceb.netlify.app">Hotstar Home</a> </li> 
 <h3>Connect Through</h3> 
   
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
