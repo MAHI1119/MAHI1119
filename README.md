@@ -8,7 +8,7 @@
 - 💬 Ask me about Front end development.
 - 📫 How to reach me:LinkedIn,Gmail
 - 😅 Fun fact I do lot of funny things.
-<h3>click Here to see my works</h3>
+<h3>Click Here to see my Works</h3>
 <ul>
   <li><a href="https://awesome-brown-ae47f6.netlify.app">Hotstar AboutPage</a></li>
   <li><a href="https://upbeat-shockley-f0dce2.netlify.app">Hotstar Subscribe Page </a></li> 
