@@ -6,7 +6,7 @@
 - 🎓I am a second year student at Government college of Technology. 
 - 💻 I’m currently learning Front end development at Spotknack mission 2021.
 - 💬 Ask me about Front end development.
-- 📫 How to reach me:LinkedIn,Gmail
+- 📫 How to reach me:LinkedIn,Gmail,Twitter
 - 😅 Fun fact I do lot of funny things.
 <h3>Click Here to see my Works</h3>
 <ul>
