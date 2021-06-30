@@ -17,7 +17,7 @@
   
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
     <img src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" width="40" height="40"> 
-  </a> 
+  </a> &nbsp &nbsp
   <a href="#"><img src="https://seeklogo.com/images/G/gmail-logo-0240527C35-seeklogo.com.png" width="40" height="40"> 
   </a>
  
