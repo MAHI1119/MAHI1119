@@ -1,4 +1,4 @@
-   <img src="https://static.vecteezy.com/system/resources/previews/000/180/387/non_2x/software-engineers-vectors.jpg" width="100px" heigth="100px">
+   <img src="https://static.vecteezy.com/system/resources/previews/000/180/387/non_2x/software-engineers-vectors.jpg"  align="left" width="100px" heigth="100px">
   <h1>
   <b>Hi there I'm Maheswari!!!! 👋</b></h1>
  
