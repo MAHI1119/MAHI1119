@@ -2,7 +2,7 @@
 
  
  <h1>
-  <b>Hi there 👋 I'm Maheswari! </b></h1>
+  <b>Hi there 👋 I'm Maheswari! </b><img src="https://i.pinimg.com/originals/61/cc/5a/61cc5a8d70b0dabad312b6748554cfa1.gif"></h1>
  <img src="https://static.vecteezy.com/system/resources/previews/000/180/387/non_2x/software-engineers-vectors.jpg" width="290px" height="250px" align="right" >
  
 - 🎓I am a second year student at Government college of Technology. 
