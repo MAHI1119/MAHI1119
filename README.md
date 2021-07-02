@@ -28,8 +28,7 @@
   <li><a href="https://epic-golick-286ceb.netlify.app">Hotstar Home</a> </li> 
  
  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/480/bootstrap.png" alt="bootstrap" width="40" > <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
- 
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/480/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.tutorialspoint.com/html5/index.htm" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" alt="html5" width="40" height="40"/> </a> </p>
 <h3>Connect Through</h3> 
   
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
