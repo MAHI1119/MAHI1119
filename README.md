@@ -26,10 +26,10 @@
  <li><a href="https://upbeat-shockley-f0dce2.netlify.app">Hotstar Subscribe Page </a></li> 
  
  <li><a href="https://epic-golick-286ceb.netlify.app">Hotstar Home</a> </li> 
-
+</ul>
 
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subikshams1262001&show_icons=true&locale=en&layout=compact" alt="subikshams1262001" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subikshams1262001&show_icons=true&locale=en&layout=compact" alt="subikshams1262001" /></p>
 <h3>Connect Through</h3> 
   
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
