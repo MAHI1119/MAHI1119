@@ -28,17 +28,15 @@
   <li><a href="https://epic-golick-286ceb.netlify.app">Hotstar Home</a> </li> 
  
  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/480/bootstrap.png" alt="bootstrap" width="40" > <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
  
 <h3>Connect Through</h3> 
   
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/ align="left">
   </a> 
- 
- <a href="mailto:mahijanu1119@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/> 
+<a href="mailto:mahijanu1119@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/> 
   </a>
- 
-  <a href="https://twitter.com/Maheswa19009887">
+<a href="https://twitter.com/Maheswa19009887">
  <img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/ align="left">
   </a> 
