@@ -3,7 +3,7 @@
  
  <h1>
   <b>Hi there 👋 I'm Maheswari! </b></h1>
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcomputer-work-gifs&psig=AOvVaw2C0pWpc89182U556hk164t&ust=1625293048171000&source=images&cd=vfe&ved=2ahUKEwiU4M3H3sPxAhWR7TgGHZTTAW0QjRx6BAgAEA8" align="right" >
+ <img src="https://static.vecteezy.com/system/resources/previews/000/180/387/non_2x/software-engineers-vectors.jpg" width="250px" height="250px" align="right" >
  
 - 🎓I am a second year student at Government college of Technology. 
 - 💻 I’m currently learning Front end development at Spotknack mission 2021.
