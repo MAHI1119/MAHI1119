@@ -7,25 +7,26 @@
  <img src="https://static.vecteezy.com/system/resources/previews/000/180/387/non_2x/software-engineers-vectors.jpg" width="290px" height="250px" align="right" >
  
  
- - 🎓I am a second year student at Government college of Technology. 
+ - 🎓 I am a third year student at the Government college of Technology Coimbatore. 
 
-- 💻 I’m currently learning Front end development at Spotknack mission 2021.
+- 💻 I’m currently learning Front end development and Preparing for my placements.
 
 - 💬 Ask me about Front end development.
+
+- 🙋‍ I am a self-motivated and helpful soul.
 
 - 📫 How to reach me:LinkedIn,Gmail,Twitter
 
 - 😅 Fun fact I do lot of funny things.
 
-
 <h3>Click Here to see my Works</h3>
 <ul>
   
- <li><a href="https://awesome-brown-ae47f6.netlify.app">Hotstar AboutPage</a></li>
+ <li><a href="https://lucid-edison-8b7619.netlify.app/">Calculator</a></li>
  
- <li><a href="https://upbeat-shockley-f0dce2.netlify.app">Hotstar Subscribe Page </a></li> 
+ <li><a href="https://hungry-blackwell-3d2f85.netlify.app/">Music App </a></li> 
  
- <li><a href="https://epic-golick-286ceb.netlify.app">Hotstar Home</a> </li> 
+ <li><a href=" https://mahi1119.github.io/Quiz-app/">Quiz App</a> </li> 
 </ul>
 
  
