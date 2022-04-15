@@ -34,7 +34,9 @@
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAHI1119&show_icons=true&locale=en&layout=compact" alt="MAHI1119" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MAHI1119&show_icons=true&locale=en" alt="MAHI1119" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MAHI1119&show_icons=true&locale=en" alt="MAHI1119" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MAHI1119&" alt="MAHI1119" /></p>
 <h3>Connect Through</h3> 
   
   <a href="https://www.linkedin.com/in/maheswari-s-8107761b0">
