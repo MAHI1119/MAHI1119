@@ -7,7 +7,7 @@
  <img src="https://i.pinimg.com/originals/f5/5f/ea/f55feafb705a2ac35e57715ed9381fcd.gif" width="300px" height="250px" align="right" border-radius="50px" >
  
  
- - 🎓 I am a third year student at the Government college of Technology Coimbatore. 
+ - 🎓 I am a FINAL year student at the Government college of Technology Coimbatore. 
 
 - 💻 I’m currently learning Front end development and Preparing for my placements.
 
